@@ -1,7 +1,3 @@
-# Sample workflow for building and deploying a Vue 3 site to GitHub Pages
-#
-# To get started with Vue 3 see: https://vuejs.org/guide/quick-start.html
-#
 name: Deploy The Test Trove Page
 
 on:
@@ -49,14 +45,14 @@ jobs:
           path: |
             node_modules
             dist
-          key: ${{ runner.os }}-vue3-build-${{ hashFiles('dist') }}
+          key: ${{ runner.os }}-build-${{ hashFiles('dist') }}
           restore-keys: |
-            ${{ runner.os }}-vue3-build-
+            ${{ runner.os }}-build-
       
       - name: Install dependencies
         run: npm i
       
-      - name: Build Vue 3 site
+      - name: Build site
         run: npm run build
       
       - name: Upload artifact

@@ -4,7 +4,7 @@ about: Usage question or discussion about anything related to the platform
 title: ''
 labels: question
 assignees: ''
-projects: the-test-trove/the-test-trove-ui/projects/4
+projects: the-test-trove/the-test-trove/projects/4
 ---
 
 <!--

@@ -4,7 +4,7 @@ about: Suggest an idea for this project
 title: ''
 labels: enhancement
 assignees: ''
-projects: the-test-trove/the-test-trove-ui/projects/4
+projects: the-test-trove/the-test-trove/projects/4
 ---
 
 ## Is your feature request related to a problem? Please describe

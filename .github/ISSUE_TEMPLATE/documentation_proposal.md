@@ -4,7 +4,7 @@ about: Propose documentation improvements / additions
 title: ''
 labels: documentation
 assignees: ''
-projects: the-test-trove/the-test-trove-ui/projects/4
+projects: the-test-trove/the-test-trove/projects/4
 ---
 
 <!--For any improvements or additions to existing documentation please be as precise and concise as possible:-->
