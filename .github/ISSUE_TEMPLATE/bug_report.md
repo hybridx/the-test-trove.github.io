@@ -4,7 +4,7 @@ about: Create a report to help us improve
 title: ''
 labels: ''
 assignees: ''
-projects: the-test-trove/the-test-trove/projects/4
+projects: the-test-trove/projects/4
 ---
 
 **Describe the bug**
